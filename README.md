@@ -11,6 +11,4 @@ This repository contains automated tests written in Cypress for the [Sauce Demo]
 ## How to Set Up
 
 1. Clone the repository to your local machine.
-2. Install the required dependencies:
-   ```bash
-   npm install
+2. After configuring your Cypress environment, drag and drop the test files into the '/e2e' folder.
