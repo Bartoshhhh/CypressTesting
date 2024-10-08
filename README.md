@@ -21,6 +21,7 @@ This repository contains automated tests written in Cypress for a simple free e-
 I have also included a file named **Test Cases - Swag Labs.xlsx**, which contains the detailed test scenarios I used to create the automated tests. These scenarios provide the basis for the automated tests and cover various aspects of the Sauce Demo website's functionality.
 
 
+## Video Preview
 
 [![Zobacz wideo](https://cdn-cf-east.streamable.com/image/o5baxk.jpg)](https://streamable.com/o5baxk)
 
