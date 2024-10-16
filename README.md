@@ -1,6 +1,6 @@
 # Automated Tests in Cypress
 
-This repository contains automated tests written in Cypress for a simple free e-commerce system I found online, specifically for the [Sauce Demo](https://www.saucedemo.com/v1/index.html) website.
+This repository contains automated tests written in Cypress for a simple free e-commerce system I found online, [Sauce Demo](https://www.saucedemo.com/v1/index.html) website.
 
 ## Requirements
 
